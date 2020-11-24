@@ -10,7 +10,7 @@ I paid attention to readability of the code, best practices and semantic element
 
 <dl>
   <dt>Languages</dt>
-  <dd>HTML, CSS, JS</dd> 
+  <dd>HTML, CSS</dd> 
       
   <dt>Code editor</dt>
   <dd>Visual Studio Code</dd>
