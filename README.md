@@ -22,7 +22,7 @@ Created by Lisa Baetsle
 
 ## Products
 
-[Assessment-PixelPerfect](https://lisabaetsle.github.io/Assesment-PixelPerfect/)
+[Assessment-PixelPerfect](https://lisabaetsle.github.io/Assessment-PixelPerfect/)
 
 ## Thanks to
 
